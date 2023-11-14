@@ -31,7 +31,7 @@ The problem solved in this task was making simple HTML semantic to make code mor
 
 Here is a visual representation of non-semantic and semantic html and visiually shows just how much easier it is to understand on first glance than non-semantic HTML: 
 
-![An image showing the difference between non-semantic and semantic HTML](challenge/Assets/html.jpg)
+![An image showing the difference between non-semantic and semantic HTML](./assets/images/html.jpg)
 
 credit- image source: Semrush
 
