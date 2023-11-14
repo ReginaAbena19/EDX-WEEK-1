@@ -33,6 +33,14 @@ Here is a visual representation of non-semantic and semantic html and visiually 
 
 ![An image showing the difference between non-semantic and semantic HTML](challenge/Assets/html.png)
 
+## Workflow
+
+This was a simple task so this could of been done solely from main. However, I wanted to show I knew and understood how git, branching and pull requests work. With each branch I make I act as if it's a ticket that has been assigned to me which contains the stories and AC's hence the branch name EDX-101
+
+Also, regarding git commit message I made it as descriptive as possible. If I had more time my git commit messages would read as follows:
+git commit -m " ROB | EDX-101 Updating README.md" 
+
+This type of messaging is more helpful, certaintly, in bigger and more collaborative projects as it allows teams to know whose ticket this is through their initials (ROB), track the ticket through the ticket number/code (EDX-101) and understand the changes through the commit message("updating...). 
 
 ## Installation
 
