@@ -33,6 +33,8 @@ Here is a visual representation of non-semantic and semantic html and visiually 
 
 ![An image showing the difference between non-semantic and semantic HTML](challenge/Assets/html.jpg)
 
+credit- image source: Semrush
+
 ## Workflow
 
 This was a simple task so this could of been done solely from main. However, I wanted to show I knew and understood how git, branching and pull requests work. With each branch I make I act as if it's a ticket that has been assigned to me which contains the stories and AC's hence the branch name EDX-101
